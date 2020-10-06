@@ -4,6 +4,7 @@ author: "RF"
 date: "10/5/2020"
 output: html_document
 ---
+
 ```{r Gun murder rate}
 library(tidyverse)
 load("rda/murders.rda")
